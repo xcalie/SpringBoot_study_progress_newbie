@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.XC</groupId>
-	<artifactId>SpringBoot_study_progress_newbie</artifactId>
+	<artifactId>Java_study_progress_SpringBoot</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>SpringBoot_study_progress_newbie</name>
 	<description>SpringBoot_study_progress_newbie</description>
